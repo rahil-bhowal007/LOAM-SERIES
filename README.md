@@ -11,7 +11,7 @@ of improvements made, and in-depth assessments. Ultimately,
 we conducted thorough testing and comparison of these three
 algorithms on two extensive long-distance datasets
 
-**Authors:** *Zhexin Xu, Rahil Bhowal*
+**Contributers:** *Zhexin Xu, Rahil Bhowal*
 
 ### DATASETS USED
 We have used the [MulRan Dataset for Urban Place Recognition](https://sites.google.com/view/mulran-pr/dataset). We have particularly focused on KAIST 01 and Riverside 03 dataset.
