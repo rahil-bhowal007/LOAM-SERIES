@@ -29,6 +29,20 @@ We have used the [MulRan Dataset for Urban Place Recognition](https://sites.goog
 The mapping results of three algorithms on the Kaist dataset
 are illustrated in Figure 1 and Figure 2.
 <br/>
+
+![loam_r](https://github.com/rahil-bhowal007/LOAM-SERIES/assets/65888130/722af654-f017-4750-ac2d-bf487ee78049)
+<p align="center">
+<it>Fig 3. LOAM on RIVERSIDE Dataset</it>
+</p>
+![legoloam_r(1)](https://github.com/rahil-bhowal007/LOAM-SERIES/assets/65888130/cdb7b46f-955d-4133-a3d5-6392c195d703)
+<p align="center">
+<it>Fig 4. LeGO-LOAM on RIVERSIDE Dataset</it>
+</p>
+![sclegoloam_r](https://github.com/rahil-bhowal007/LOAM-SERIES/assets/65888130/dcb8988a-5100-4975-b179-f6cc25bdec66)
+<p align="center">
+<it>Fig 5. SC-LeGO-LOAM on RIVERSIDE Dataset</it>
+</p>
+
 <p align="center">
 <table>
    <tr>
